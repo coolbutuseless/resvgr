@@ -19,7 +19,6 @@ library(resvgr)
 
 <!-- badges: start -->
 ![](https://img.shields.io/badge/cool-useless-green.svg)
-[![R-CMD-check](https://github.com/coolbutuseless/resvgr/workflows/R-CMD-check/badge.svg)](https://github.com/coolbutuseless/resvgr/actions)
 <!-- badges: end -->
 
 `{resvgr}` is a very alpha wrapper for the 
