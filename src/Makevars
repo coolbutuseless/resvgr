@@ -1,0 +1,3 @@
+RESVGDIR = $(HOME)/projectsdata/source-code/resvg
+PKG_LIBS = -lm -L$(RESVGDIR)/target/release -lresvg `pkg-config --libs cairo`
+PKG_CPPFLAGS=-I$(RESVGDIR)/c-api
